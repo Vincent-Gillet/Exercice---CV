@@ -1,0 +1,46 @@
+.icontopbar {
+  max-width: 20px;
+}
+
+.leftbaricontop {
+  max-width: 50px;
+  max-height: 30px;
+}
+
+.leftbariconbot {
+  max-width: 80px;
+}
+
+#leftbar img, #leftbar h6, #leftbar p {
+  margin-bottom: 15px;
+}
+
+#logolinkedin {
+  max-width: 60px;
+}
+
+#qrcodelinkedin {
+  max-width: 100px;
+}
+
+.logo {
+  max-width: 70px;
+  max-height: 50px;
+}
+
+#listeAtout {
+  list-style: none;
+}
+
+#git {
+  text-decoration: none;
+  color: white;
+}
+
+#git:hover {
+  color: rgb(225, 225, 225);
+}
+
+/* Responsive */
+
+@media screen and (max-width: 578px){   .col-xs-1 {       flex: 0 0 auto;       width: 8.33333333%;   }   .col-xs-2 {       flex: 0 0 auto;       width: 16.66666667%;   }   .col-xs-3 {       flex: 0 0 auto;       width: 25%;   }   .col-xs-4 {       flex: 0 0 auto;       width: 33.33333333%;   }   .col-xs-5 {       flex: 0 0 auto;       width: 41.66666667%;   }   .col-xs-6 {       flex: 0 0 auto;       width: 50%;   }   .col-xs-7{       flex: 0 0 auto;       width: 58.33333333%;   }   .col-xs-8 {       flex: 0 0 auto;       width: 66.66666667%;   }   .col-xs-9 {       flex: 0 0 auto;       width: 75%;   }   .col-xs-10 {       flex: 0 0 auto;       width: 83.33333333%;   }   .col-xs-11 {       flex: 0 0 auto;       width: 91.66666667%;   }   .col-xs-12 {       flex: 0 0 auto;       width: 100%;   } }
